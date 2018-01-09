@@ -4,7 +4,7 @@ _bundles
 *~
 node_modules
 bower_components
-lib
+#lib
 lib-esm
 
 # webstorm files
