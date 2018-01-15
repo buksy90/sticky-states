@@ -1,0 +1,1 @@
+window['@uirouter/core'] = window['@uirouter/angularjs'];
