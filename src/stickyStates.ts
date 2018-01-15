@@ -1,3 +1,5 @@
+window['@uirouter/core'] = window['@uirouter/angularjs'];
+
 import {
   UIRouter, PathUtils, StateOrName, StateObject, StateDeclaration, PathNode, TreeChanges, Transition, UIRouterPluginBase,
   TransitionHookPhase, TransitionHookScope, TransitionServicePluginAPI, HookMatchCriteria, TransitionStateHookFn,
